@@ -1,0 +1,246 @@
+
+[
+    {
+        "id": 0,
+        "nombre": "Aldosivi",
+        "creacion": 1913 ,
+        "liga": "Liga Argentina",
+        "titulos": 0 , 
+        "goleador": "Mojarrita",
+        "escudo": "aldosivi_arg.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Argentinos Juniors",
+        "creacion": 1904 ,
+        "liga": "Liga Argentina",
+        "titulos": 3 , 
+        "goleador": "Avalos",
+        "escudo": "argentinos.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Arsenal",
+        "creacion": 1957 ,
+        "liga": "Liga Argentina",
+        "titulos": 1 , 
+        "goleador": "Grondona",
+        "escudo": "arsenal_arg.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Atletico Tucuman",
+        "creacion": 1902 ,
+        "liga": "Liga Argentina",
+        "titulos": 1 , 
+        "goleador": "Nadie",
+        "escudo": "attucuman.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Banfield",
+        "creacion": 1896 ,
+        "liga": "Liga Argentina",
+        "titulos": 1 , 
+        "goleador": "Garrafa",
+        "escudo": "banfield.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Barracas Central",
+        "creacion": 1904 ,
+        "liga": "Liga Argentina",
+        "titulos": 0 , 
+        "goleador": "Chiqui Tapia",
+        "escudo": "barracas_central_arg.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Central Cordoba",
+        "creacion": 1919 ,
+        "liga": "Liga Argentina",
+        "titulos": 0 , 
+        "goleador": "Sapito Coleoni",
+        "escudo": "central_cord_santiago_arg.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Colon",
+        "creacion": 1948 ,
+        "liga": "Liga Argentina",
+        "titulos": 0 , 
+        "goleador": "Sabale",
+        "escudo": "colon.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Defensa y Justicia",
+        "creacion": 1935 ,
+        "liga": "Liga Argentina",
+        "titulos": 0 , 
+        "goleador": "Romero",
+        "escudo": "defensayjusticia.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Estudiantes",
+        "creacion": 1905 ,
+        "liga": "Liga Argentina",
+        "titulos": 5, 
+        "goleador": "Zubeldia",
+        "escudo": "estudic.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Gimnasia",
+        "creacion": 1887 ,
+        "liga": "Liga Argentina",
+        "titulos": 0, 
+        "goleador": "Naon",
+        "escudo": "glaplatc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Godoy Cruz",
+        "creacion": 1921 ,
+        "liga": "Liga Argentina",
+        "titulos": 0, 
+        "goleador": "Algun Mendocino",
+        "escudo": "godoycruz.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Huracan",
+        "creacion": 1903 ,
+        "liga": "Liga Argentina",
+        "titulos": 1, 
+        "goleador": "Ringo",
+        "escudo": "huracanc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Independiente",
+        "creacion": 1904 ,
+        "liga": "Liga Argentina",
+        "titulos": 14, 
+        "goleador": "Erico",
+        "escudo": "indepc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Lanus",
+        "creacion": 1915 ,
+        "liga": "Liga Argentina",
+        "titulos": 2, 
+        "goleador": "Sand",
+        "escudo": "lanusc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Newells",
+        "creacion": 1903 ,
+        "liga": "Liga Argentina",
+        "titulos": 6, 
+        "goleador": "Pachu",
+        "escudo": "newelsc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Patronato",
+        "creacion": 1914 ,
+        "liga": "Liga Argentina",
+        "titulos": 0, 
+        "goleador": "Nadie",
+        "escudo": "patronato_arg.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Platense",
+        "creacion": 1905 ,
+        "liga": "Liga Argentina",
+        "titulos": 0, 
+        "goleador": "Momo",
+        "escudo": "platensc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Racing",
+        "creacion": 1903 ,
+        "liga": "Liga Argentina",
+        "titulos": 9, 
+        "goleador": "Lopez",
+        "escudo": "racingc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "River Plate",
+        "creacion": 1901 ,
+        "liga": "Liga Argentina",
+        "titulos": 36, 
+        "goleador": "Angel Labruna",
+        "escudo": "riverc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Rosario Central",
+        "creacion": 1889 ,
+        "liga": "Liga Argentina",
+        "titulos": 4, 
+        "goleador": "Fontanarrosa",
+        "escudo": "rosarioc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "San Lorenzo",
+        "creacion": 1908 ,
+        "liga": "Liga Argentina",
+        "titulos": 12, 
+        "goleador": "Sanfilippo",
+        "escudo": "san_loc.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Sarmiento",
+        "creacion": 1911 ,
+        "liga": "Liga Argentina",
+        "titulos": 0, 
+        "goleador": "Torres",
+        "escudo": "sarmiento_arg.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Talleres",
+        "creacion": 1913 ,
+        "liga": "Liga Argentina",
+        "titulos": 0, 
+        "goleador": "Valoyes",
+        "escudo": "talleres.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Tigre",
+        "creacion": 1902 ,
+        "liga": "Liga Argentina",
+        "titulos": 0, 
+        "goleador": "Pipo",
+        "escudo": "tigre_arg.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Union",
+        "creacion": 1907 ,
+        "liga": "Liga Argentina",
+        "titulos": 0, 
+        "goleador": "Sapito Coleoni",
+        "escudo": "union_santa_fe.png"
+    },
+    {
+        "id": 0,
+        "nombre": "Velez",
+        "creacion": 1910 ,
+        "liga": "Liga Argentina",
+        "titulos": 10, 
+        "goleador": "Flores",
+        "escudo": "velez.png"
+    }
+]

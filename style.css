@@ -1,0 +1,137 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-image: url("img/fondo.jpg");
+    color: white;
+}
+.menu1 {
+    list-style-type: none;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+    text-transform: uppercase;
+}
+
+.menu1 li:hover,
+.menu1 li:active {
+    background-color: #2c1ace;
+    font-weight: 500;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.3s ease all;
+    border-radius: 5px;
+}
+
+.menu1 li a {
+    color: #130202;
+    text-decoration: none;
+    font-size: larger;
+    text-transform: uppercase;
+    font-size: larger;
+}
+
+.logo {
+    width: 100%;
+    padding-top: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.menu2 {
+    list-style-type: none;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+    text-transform: uppercase;
+}
+
+.menu2 li:hover,
+.menu2 li:active {
+    background-color: #2c1ace;
+    font-weight: 500;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.3s ease all;
+    border-radius: 5px;
+}
+
+.menu2 li a {
+    color: #130202;
+    text-decoration: none;
+    font-size: larger;
+    text-transform: uppercase;
+    font-size: larger;
+}
+
+
+
+main .seccion1 h1 {
+    margin-top: 2%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+main .seccion1 h2 {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.divEscudo{
+    display: flex;
+    justify-content: center;
+}
+.escudo {
+    width: 100%;
+    padding-top: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+.tabla {
+    color: white;
+}
+
+.escudosArg{
+    width:50px;
+}
+
+
+
+.card {
+    color: #130202;
+}
+footer {
+    margin-top: 2%;
+    background-color:  orangered;
+}
+
+footer div {
+    align-items: baseline;
+}
+
+footer div .contenedor-formulario,
+footer div .contenedor-pie .pie,
+footer div div .redes {
+    display: flex;
+    align-items: center;
+}
+
+footer div .contenedor-pie .pie {
+    flex-direction: row;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+footer div div .redes {
+    justify-content: space-evenly;
+}

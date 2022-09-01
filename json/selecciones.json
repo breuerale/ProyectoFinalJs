@@ -1,0 +1,290 @@
+[
+    {
+        "grupo": "A",
+        "seleccion": "Qatar",
+        "creacion": 1960 ,
+        "federacion": "Asociación de Fútbol de Qatar",
+        "mundiales": 0 , 
+        "goleador": "Mubarak Mustafa",
+        "escudo": "qatar.png"
+    },
+    {
+        "grupo": "A",
+        "seleccion": "Ecuador",
+        "creacion": 1925 ,
+        "federacion": "Federación Ecuatoriana de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Enner Valencia",
+        "escudo": "ecuador.png"
+    },
+    {
+        "grupo": "A",
+        "seleccion": "Senegal",
+        "creacion": 1960 ,
+        "federacion": "Federación Senegalesa de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Sadio Mané",
+        "escudo": "senegal.jpg"
+    },
+    {
+        "grupo": "A",
+        "seleccion": "Paises Bajos",
+        "creacion": 1889 ,
+        "federacion": "Real Asociación Neerlandesa de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Robin van Persie",
+        "escudo": "paisesbajos.jpg"
+    },
+    {
+        "grupo": "B",
+        "seleccion": "Inglaterra",
+        "creacion": 1863 ,
+        "federacion": "Real Asociación Neerlandesa de Fútbol",
+        "mundiales": 1 , 
+        "goleador": "Wayne Rooney",
+        "escudo": "inglaterra.jpg"
+    },
+    {
+        "grupo": "B",
+        "seleccion": "Iran",
+        "creacion": 1920 ,
+        "federacion": "Federación de Fútbol de la República Islámica de Irán",
+        "mundiales": 0 , 
+        "goleador": "Ali Daei",
+        "escudo": "iran.png"
+    },
+    {
+        "grupo": "B",
+        "seleccion": "Estados Unidos",
+        "creacion": 1913 ,
+        "federacion": "Federación de Fútbol de los Estados Unidos",
+        "mundiales": 0 , 
+        "goleador": "Clint Dempsey",
+        "escudo": "estadosunidos.png"
+    },
+    {
+        "grupo": "B",
+        "seleccion": "Gales",
+        "creacion": 1876 ,
+        "federacion": "Asociación de Fútbol de Gales",
+        "mundiales": 0 , 
+        "goleador": "Gareth Bale",
+        "escudo": "gales.jpg"
+    },
+    {
+        "grupo": "C",
+        "seleccion": "Argentina",
+        "creacion": 1893 ,
+        "federacion": "Asociación del Fútbol Argentino",
+        "mundiales": 2 , 
+        "goleador": "Lionel Messi",
+        "escudo": "argentina.jpg"
+    },
+    {
+        "grupo": "C",
+        "seleccion": "Arabia Saudita",
+        "creacion": 1956  ,
+        "federacion": "Federación de Fútbol de Arabia Saudita",
+        "mundiales": 0 , 
+        "goleador": "Majed Abdullah",
+        "escudo": "arabia.png"
+    },
+    {
+        "grupo": "C",
+        "seleccion": "Mexico",
+        "creacion": 1922 ,
+        "federacion": "Federación Mexicana de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Javier Hernández",
+        "escudo": "mexico.png"
+    },
+    {
+        "grupo": "C",
+        "seleccion": "Polonia",
+        "creacion": 1919 ,
+        "federacion": "Asociación Polaca de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Robert Lewandowski",
+        "escudo": "polonia.png"
+    },
+    {
+        "grupo": "D",
+        "seleccion": "Francia",
+        "creacion": 1919 ,
+        "federacion": "Federación Francesa de Fútbol",
+        "mundiales": 2 , 
+        "goleador": "Thierry Henry",
+        "escudo": "francia.jpg"
+    },
+    {
+        "grupo": "D",
+        "seleccion": "Australia",
+        "creacion": 1961 ,
+        "federacion": "Federación de Fútbol de Australia",
+        "mundiales": 0 , 
+        "goleador": "Tim Cahill",
+        "escudo": "australia.png"
+    },
+    {
+        "grupo": "D",
+        "seleccion": "Dinamarca",
+        "creacion": 1889 ,
+        "federacion": "Unión Danesa de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Poul Nielsen",
+        "escudo": "dinamarca.jpg"
+    },
+    {
+        "grupo": "D",
+        "seleccion": "Tunez",
+        "creacion": 1956 ,
+        "federacion": "Federación Tunecina de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Issam Jemâa",
+        "escudo": "tunez.png"
+    },
+    {
+        "grupo": "E",
+        "seleccion": "España",
+        "creacion": 1909 ,
+        "federacion": "Real Federación Española de Fútbol",
+        "mundiales": 1 , 
+        "goleador": "David Villa",
+        "escudo": "espana.jpg"
+    },
+    {
+        "grupo": "E",
+        "seleccion": "Costa Rica",
+        "creacion": 1921 ,
+        "federacion": "Federación Costarricense de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Rolando Fonseca",
+        "escudo": "costarica.png"
+    },
+    {
+        "grupo": "E",
+        "seleccion": "Alemania",
+        "creacion": 1900 ,
+        "federacion": "Federación Alemana de Fútbol",
+        "mundiales": 4 , 
+        "goleador": "Miroslav Klose",
+        "escudo": "alemania.jpg"
+    },
+    {
+        "grupo": "E",
+        "seleccion": "Japon",
+        "creacion": 1921 ,
+        "federacion": "Asociación de Fútbol de Japón",
+        "mundiales": 0 , 
+        "goleador": "Kunishige Kamamoto",
+        "escudo": "japon.png"
+    },
+    {
+        "grupo": "F",
+        "seleccion": "Belgica",
+        "creacion": 1895 ,
+        "federacion": "Unión Real Belga de Sociedades de Fútbol Asociación",
+        "mundiales": 0 , 
+        "goleador": "Romelu Lukaku",
+        "escudo": "belgica.png"
+    },
+    {
+        "grupo": "F",
+        "seleccion": "Canada",
+        "creacion": 1912 ,
+        "federacion": " Asociación Canadiense de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Cyle Larin",
+        "escudo": "canada.png"
+    },
+    {
+        "grupo": "F",
+        "seleccion": "Marruecos",
+        "creacion": 1912 ,
+        "federacion": "No tiene",
+        "mundiales": 0 , 
+        "goleador": "Ahmed Faras",
+        "escudo": "marruecos.jpg"
+    },
+    {
+        "grupo": "F",
+        "seleccion": "Croacia",
+        "creacion": 1912 ,
+        "federacion": "Federación Croata de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Davor Šuker",
+        "escudo": "croacia.jpg"
+    },
+    {
+        "grupo": "G",
+        "seleccion": "Brasil",
+        "creacion": 1914 ,
+        "federacion": "Confederación Brasileña de Fútbol",
+        "mundiales": 5 , 
+        "goleador": "Pelé",
+        "escudo": "brasil.png"
+    },
+    {
+        "grupo": "G",
+        "seleccion": "Serbia",
+        "creacion": 1991 ,
+        "federacion": "No tiene",
+        "mundiales": 0 , 
+        "goleador": "Aleksandar Mitrovic",
+        "escudo": "serbia.jpg"
+    },
+    {
+        "grupo": "G",
+        "seleccion": "Suiza",
+        "creacion": 1895 ,
+        "federacion": "Asociación Suiza de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Alexander Frei",
+        "escudo": "suiza.jpg"
+    },
+    {
+        "grupo": "G",
+        "seleccion": "Camerun",
+        "creacion": 1959 ,
+        "federacion": "Federación Camerunesa de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Samuel Eto'o",
+        "escudo": "camerun.png"
+    },
+    {
+        "grupo": "H",
+        "seleccion": "Portugal",
+        "creacion": 1914 ,
+        "federacion": "Federación Portuguesa de Fútbol",
+        "mundiales": 0 , 
+        "goleador": "Cristiano Ronaldo",
+        "escudo": "portugal.png"
+    },
+    {
+        "grupo": "H",
+        "seleccion": "Ghana",
+        "creacion": 1957 ,
+        "federacion": "Asociación de Fútbol de Ghana",
+        "mundiales": 0 , 
+        "goleador": "Asamoah Gyan",
+        "escudo": "ghana.png"
+    },
+    {
+        "grupo": "H",
+        "seleccion": "Uruguay",
+        "creacion": 1900 ,
+        "federacion": "Asociación Uruguaya de Fútbol",
+        "mundiales": 2 , 
+        "goleador": "Luis Suárez",
+        "escudo": "uruguay.png"
+    },
+    {
+        "grupo": "H",
+        "seleccion": "Corea del Sur",
+        "creacion": 1928 ,
+        "federacion": "Asociación de Fútbol de Corea",
+        "mundiales": 0 , 
+        "goleador": "Cha Bum-kun",
+        "escudo": "corea.png"
+    }
+]
